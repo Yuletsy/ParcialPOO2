@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\bin\Debug\Funciones.Parcial.exe.config
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\bin\Debug\Funciones.Parcial.exe
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\bin\Debug\Funciones.Parcial.pdb
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.Form1.resources
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.Properties.Resources.resources
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.exe
+C:\Users\user\source\repos\Funciones.Parcial\Funciones.Parcial\obj\Debug\Funciones.Parcial.pdb
